@@ -1,5 +1,7 @@
 # Taxi Kata
 
+![taxi](https://cloud.githubusercontent.com/assets/1239497/11740307/47a9f808-9ffa-11e5-8016-9ce931da4682.png) ![taxi](https://cloud.githubusercontent.com/assets/1239497/11740307/47a9f808-9ffa-11e5-8016-9ce931da4682.png) ![taxi](https://cloud.githubusercontent.com/assets/1239497/11740307/47a9f808-9ffa-11e5-8016-9ce931da4682.png) 
+
 ## Instructions
 
 Solve the Kata below using TDD. Complete it in Javascript, Python, or Ruby. Once done in one Language in the alotted time try it out in another. Use flowcharts and diagrams to think through the required logic.
